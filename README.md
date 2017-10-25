@@ -1,4 +1,3 @@
-<p align="center"><img src="http://i.imgur.com/lhG27Le.png"/></p>
 # atom-eclipse-syntax
 Eclipse default syntax on Atom.
 
